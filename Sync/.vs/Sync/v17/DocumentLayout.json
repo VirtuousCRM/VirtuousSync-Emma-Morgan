@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|c:\\users\\dev\\documents\\virtuoussync-emma-morgan\\sync\\virtuousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|solutionrelative:virtuousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\abbreviatedcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|solutionrelative:abbreviatedcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\contactqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49605CD3-4FB5-45A7-AF53-9620C4BC74E9}|Sync.csproj|solutionrelative:contactqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VirtuousService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\VirtuousService.cs",
+              "RelativeDocumentMoniker": "VirtuousService.cs",
+              "ToolTip": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\VirtuousService.cs",
+              "RelativeToolTip": "VirtuousService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:38:08.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbbreviatedContact.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\AbbreviatedContact.cs",
+              "RelativeDocumentMoniker": "AbbreviatedContact.cs",
+              "ToolTip": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\AbbreviatedContact.cs",
+              "RelativeToolTip": "AbbreviatedContact.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:46:08.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-06T23:46:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:46:35.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\ContactQueryRequest.cs",
+              "RelativeDocumentMoniker": "ContactQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Dev\\Documents\\VirtuousSync-Emma-Morgan\\Sync\\ContactQueryRequest.cs",
+              "RelativeToolTip": "ContactQueryRequest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:36:41.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
