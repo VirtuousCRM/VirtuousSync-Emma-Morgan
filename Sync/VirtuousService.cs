@@ -1,4 +1,7 @@
 ﻿using RestSharp;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Sync
@@ -25,15 +28,32 @@ namespace Sync
 
         public async Task<PagedResult<AbbreviatedContact>> GetContactsAsync(int skip, int take)
         {
-            var request = new RestRequest("/api/Contact/Query", Method.Post);
-            request.AddQueryParameter("Skip", skip);
-            request.AddQueryParameter("Take", take);
+            try
+            {
+                var request = new RestRequest("/api/Contact/Query/FullContact", Method.Post);
+                request.AddQueryParameter("Skip", skip);
+                request.AddQueryParameter("Take", take);
 
-            var body = new ContactQueryRequest();
-            request.AddJsonBody(body);
+                var body = new ContactQueryRequest();
+                request.AddJsonBody(body);
 
-            var response = await _restClient.GetAsync<PagedResult<AbbreviatedContact>>(request);
-            return response;
+                var response = await _restClient.PostAsync<PagedResult<AbbreviatedContact>>(request);
+                if (response == null || response.List == null)
+                {
+                    return new PagedResult<AbbreviatedContact> { List = new List<AbbreviatedContact>(), Total = 0 };
+                }
+
+                response.List = response.List
+                                            .Where(c => c.Address != null && c.Address.State == "AZ")
+                                            .ToList();
+                return response;
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine($"Error fetching contacts: {ex.Message}");
+                return new PagedResult<AbbreviatedContact> { List = new List<AbbreviatedContact>(), Total = 0 };
+            }
+            
         }
     }
 }
